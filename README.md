@@ -71,7 +71,7 @@ Thanks for visiting my GitHub profile! 😊
 <div align="center"> 
  <h2> Visitor Count 👇</h2> <br>
  <img src="https://profile-counter.glitch.me/reddynn/count.svg"> <br>
-starts in 1/11/2022
+starts in 7/12/2023
 <h1> <a href="https://github.com/reddynn?tab=repositories">⏬ FOR More ⏬</a><h1>
 </div>
         
