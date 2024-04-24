@@ -30,7 +30,7 @@ I'm a AWS Devops Engineer passionate about technology, coding, and problem-solvi
 | Status | Technology |
 |--------|------------|
 | Learning | ![Golang](https://img.shields.io/badge/Golang-%230078D4.svg?style=for-the-badge&logo=golang&logoColor=blue) 
-| Experienced in | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Experienced in | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!--   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  -->
 
