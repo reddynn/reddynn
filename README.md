@@ -36,8 +36,8 @@ I'm a AWS Devops Engineer passionate about technology, coding, and problem-solvi
 
 ### 💼 Experience
 
-- **AWS Devops Engineer** at Mastek
-  - Worked on Terraform cloud,AWS,EKS
+- **AWS Devops Engineer**
+  - Terraform ,AWS,EKS
 
 
   
