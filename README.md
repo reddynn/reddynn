@@ -1,8 +1,8 @@
  <h2 align="center"> 📈 My Contributions </h2>
  
-  - [golang aws-sdk fix](https://github.com/awsdocs/aws-doc-sdk-examples/pull/5204)
- <br>
-  - [terraform code fix](https://github.com/hashicorp/terraform/pull/36128)
+![golang aws-sdk fix](https://github.com/awsdocs/aws-doc-sdk-examples/pull/5204)
+<br>
+![terraform code fix](https://github.com/hashicorp/terraform/pull/36128)
  
  <h1 align="center">Hi there, I'm NareshReddy👋</h1>
 
