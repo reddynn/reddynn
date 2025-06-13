@@ -1,3 +1,8 @@
+ <h2 align="center"> 📈 My Contributions </h2>
+ 
+ [golang aws-sdk fix](https://github.com/awsdocs/aws-doc-sdk-examples/pull/5204)
+ [terraform code fix](https://github.com/hashicorp/terraform/pull/36128)
+ 
  <h1 align="center">Hi there, I'm NareshReddy👋</h1>
 
 <p align="center">
@@ -64,8 +69,7 @@ I'm open to collaboration on interesting projects. If you have a project idea or
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddynn/)
 <!-- - Portfolio Website: [Your Portfolio Website](Portfolio URL) -->
 
-<!-- ## 📝 Blog
-I occasionally write about tech and programming on my blog: [Link to Blog](Blog URL) -->
+
 
 Thanks for visiting my GitHub profile! 😊
 <div align="center"> 
